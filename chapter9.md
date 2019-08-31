@@ -1,23 +1,23 @@
 # 9. 単純な疫学データの解析
 
-#oy episheetによる分析　https://twitter.com/ken_rothman
+#oy Rothmanによるepisheetによリ分析可能.　https://twitter.com/ken_rothman
 
-#oy 復習。今回計算するものたち。
+## #oy 復習：今回計算するものたち。
 
 ### 疾病頻度の指標：
-	- リスク(risk) 					割合
-	- 有病率(prevalence)				割合
-	- 発生率(incidence rate)				率
+* リスク(risk) 					割合
+* 有病率(prevalence)				割合	
+* 発生率(incidence rate)				率
 
 ### 効果指標：
-	- リスクに関する効果指標：
-		-- リスク差(RD; risk difference)		割合(リスク)の差
-		-- リスク比(RR; risk ratio)		割合(リスク)の比
-	- 発生率に関する効果指標：
-		-- 発生率差(ID; incidence rate difference)	率(発生率)の差
-		-- 発生率比(IR; incidence rate ratio)	率(発生率)の比
-	- オッズに関する効果指標：
-		-- オッズ比(OR; odds ratio)		比(オッズ)の比
+* リスクに関する効果指標：
+	* リスク差(RD; risk difference)	割合(リスク)の差
+	* リスク比(RR; risk ratio)		割合(リスク)の比
+* 発生率に関する効果指標：
+	* 発生率差(ID; incidence rate difference)	率(発生率)の差
+	* 発生率比(IR; incidence rate ratio)	率(発生率)の比
+* オッズに関する効果指標：
+	* オッズ比(OR; odds ratio)		比(オッズ)の比
 
 ## (1) 疾病頻度の指標における信頼区間
 ### リスクデータと有病率データ
