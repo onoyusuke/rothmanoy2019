@@ -1,5 +1,5 @@
 # 9. 単純な疫学データの解析
-2019年9月9日 小野裕介
+2019年11月25日 小野裕介
 
 #oy Rothmanによるepisheetによリ分析可能.　https://twitter.com/ken_rothman
 
